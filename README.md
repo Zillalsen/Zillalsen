@@ -1,6 +1,6 @@
 # 👋 Hi There, I’m @Zillalsen 
 - 👀 I’m interested in Web developpement (obsessed with it actually)
-- 🌱 I’m currently learning Sass && developing myself on Js (Always)
+- 🌱 I’m currently learning Sass && developing myself on Js 
 - 💬  Ask me about anything related to Javascript/bootstrap/Css/Html/Git & Github
 - 📫 You can reach me on [@ZillalsenM](https://twitter.com/ZillalsenM) 
 <!---
